@@ -1,11 +1,9 @@
 import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:my_first_app/row_screen.dart';
 import 'package:my_first_app/stack_screen.dart';
-
 import 'second_screen.dart';
-
+// remove spaces
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
   static const String routeName = 'home';
